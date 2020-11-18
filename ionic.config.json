@@ -1,0 +1,7 @@
+{
+  "name": "Route",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
